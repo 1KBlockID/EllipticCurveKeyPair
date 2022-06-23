@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "EllipticCurveKeyPair"
-  s.version      = "2.0"
+  s.version      = "2.0.1"
   s.summary      = "Sign, verify, encrypt and decrypt using the Secure Enclave"
   s.description  = <<-DESC
     Create and manage an Elliptic Curve Key Pair on the Secure Enclave on iOS or MacOS.
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   }
   s.ios.deployment_target = "9.0"
   s.osx.deployment_target = "10.12.1"
-  s.source       = { :git => "https://github.com/agens-no/EllipticCurveKeyPair.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/1KBlockID/EllipticCurveKeyPair.git", :tag => s.version.to_s }
   s.source_files  = "Sources/**/*"
   s.frameworks  = ["Foundation", "LocalAuthentication", "Security"]
   s.swift_version = '5.0'
