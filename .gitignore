@@ -33,3 +33,11 @@ xcuserdata/
 *.dSYM
 .build
 .DS_Store
+EllipticCurveKeyPair.framework/Info.plist
+EllipticCurveKeyPair.framework/Modules/EllipticCurveKeyPair.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo
+EllipticCurveKeyPair.framework/Modules/EllipticCurveKeyPair.swiftmodule/Project/x86_64.swiftsourceinfo
+EllipticCurveKeyPair.framework/Modules/EllipticCurveKeyPair.swiftmodule/x86_64-apple-ios-simulator.swiftdoc
+EllipticCurveKeyPair.framework/Modules/EllipticCurveKeyPair.swiftmodule/x86_64-apple-ios-simulator.swiftmodule
+EllipticCurveKeyPair.framework/Modules/EllipticCurveKeyPair.swiftmodule/x86_64.swiftdoc
+EllipticCurveKeyPair.framework/Modules/EllipticCurveKeyPair.swiftmodule/x86_64.swiftmodule
+EllipticCurveKeyPair.framework/Modules/module.modulemap
