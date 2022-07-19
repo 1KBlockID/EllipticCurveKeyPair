@@ -10,7 +10,7 @@ echo "xcode project file $xcodeproj"
 #echo "xcode workspace file $xcworkspace"
 
 # set scheme
-scheme="EllipticCurveKeyPair-iOS"
+scheme="${project}-iOS"
 echo "xcode scheme set to $scheme"
 
 # set configuration
