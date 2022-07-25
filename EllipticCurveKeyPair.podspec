@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author       = { "Kuldeep" => "kuldeep@1kosmos.com" }
   s.platform = :ios
   s.ios.deployment_target = "12.0"
-  s.source       = { :git => "https://dev1kosmos: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@github.com/1KBlockID/EllipticCurveKeyPair.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/1KBlockID/EllipticCurveKeyPair.git", :tag => s.version.to_s }
   s.source_files  = "Sources/**/*"
   s.frameworks  = ["Foundation", "LocalAuthentication", "Security"]
   s.swift_version = '5.5'
