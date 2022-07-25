@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
     Create and manage an Elliptic Curve Key Pair on the Secure Enclave on iOS or MacOS.
   DESC
-  s.homepage     = "https://github.com/1KBlockID/EllipticCurveKeyPair"
+  s.homepage     = "https://github.com/1KBlockID/EllipticCurveKeyPair.git"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Kuldeep" => "kuldeep@1kosmos.com" }
   s.platform = :ios
